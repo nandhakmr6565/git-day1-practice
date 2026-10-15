@@ -1,0 +1,5 @@
+=== Day 1 Git Summary ===
+- Configured Git identity and default branch
+- Initialized local repository and tracked README.md
+- Resolved merge conflict between local and remote
+- Pushed changes to GitHub using PAT authentication
